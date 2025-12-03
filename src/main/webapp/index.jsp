@@ -9,6 +9,7 @@
     <p style="font-size: 16px; color: #555;">
         Manage and attend online events with ease!
     </p>
+<p>this website is your one stop place for virtual event </p>
 
     <h3>What do you want to do?</h3>
     <ul style="list-style: none; padding: 0;">
